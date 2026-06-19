@@ -1,4 +1,4 @@
-package SmartDevices;
+
 class SmartDevice {
     String brand;
     String model;
